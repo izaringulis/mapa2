@@ -1,0 +1,26 @@
+
+* {
+   box-sizing: border-box
+	
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color:lightblue
+}
+
+.map  {
+	
+	height: 100 vh;
+	width: 100 vw;
+
+<style>
+  #leyenda {
+        position: absolute;
+        bottom: 40px;
+        left: 5px;
+        padding: 10px
+    }
+</style>
+}
